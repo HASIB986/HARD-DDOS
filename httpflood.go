@@ -1,5 +1,5 @@
 /*
-Coded by: RH Hasan
+Coded by: HASIB HOSSEN 
 Please fking code ur script by ur self, kid.
 
 I changed the random integers range to the max of int32.
@@ -222,7 +222,7 @@ func main() {
 	fmt.Println(".H  H.   `H..'   `H..'  H..H'     .H.     .H. `H..H' `H..H' `H..H. ")
 	fmt.Println("                          H                                             ")
 	fmt.Println("                         .H                              version: 2.0      ")
-	fmt.Println("                                                        Coded by: RH Hasan")
+	fmt.Println("                                                        Coded by: HASIB HOSSEN")
 	fmt.Println("≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈")
 	if len(os.Args) != 6 {
 		fmt.Println("Post Mode will use header.txt as data")
