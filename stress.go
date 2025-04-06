@@ -117,7 +117,7 @@ func init() {
 func main() {
 	fmt.Println("|--------------------------------------|")
 	fmt.Println("|   Golang : server testing tool  |")
-	fmt.Println("|          Codad By: RH Hasan        |")
+	fmt.Println("|          Codad By:Hasib Hossen        |")
 	fmt.Println("|--------------------------------------|")
 	if len(os.Args) != 7 {
 		fmt.Printf("Usage: %s host port mode connections seconds timeout(second)\r\n", os.Args[0])
